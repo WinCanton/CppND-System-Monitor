@@ -2,7 +2,7 @@
 
 The following is a screenshot of the system monitor app implemented by the above code.
 
-![EMS System Monitor](images/SysMon2.png | width=300)
+![EMS System Monitor](images/SysMon2.png)
 
 
 ![System Monitor](images/monitor.png)
